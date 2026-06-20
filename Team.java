@@ -1,7 +1,7 @@
 public class Team {
     Member member;
-    public Team(Member member) {
-        this.member = member;
+    public Team(Member member) {  // who is in this Team?
+        this.member = member;  // one 'member' is in this Team!
     }
 
     // Here's our main method
